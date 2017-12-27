@@ -42,7 +42,7 @@ function [M,X,Y,Z,del] = accessWOA13(vv,tt,ff,gg)
 %   │            15   for Summer average
 %   │            16   for Autumn average
 %   ├── ff = field type (string, optional - default 'an'). Possible choices:
-%   │          'an'   for Objectively analyzed mean
+%   │          'an'   for objectively analyzed mean
 %   │          'mn'   for Statistical mean
 %   │          'dd'   for Number of observations
 %   │          'sd'   for Standard deviations
